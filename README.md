@@ -8,10 +8,12 @@ The report aims to answer the question about whether the number of visits to cer
 
 ## Dataset
 
+__It is illegal to redistribute the datasets. Therefore readers who are interested in reproducing the report should download all three datasets directly from the links below.__
+
 Link to Google Mobility Dataset: https://www.google.com/covid19/mobility/ 
 
 Link to Apple Mobility Dataset: https://covid19.apple.com/mobility
 
 Link to Ontario COVID-19 Dataset: https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario
 
-The report is created using the datasets up to Nov 24th. The version of all datasets under this repo is not up-to-date. If you require more recent version, please visit the links above.
+The report is created using the datasets up to Nov 24th. If you require more recent version, please visit the links above.
